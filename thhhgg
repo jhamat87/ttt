@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ary",ary
+http://webtv.dodear.asia:88/saudisunnahsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bbc",bbc
+http://webtv.dodear.asia:88/aryqtvsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cnn",cnn
+http://webtv.dodear.asia:88/abnnewshd/tracks-v1a1/mono.m3u
